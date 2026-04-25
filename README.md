@@ -118,7 +118,11 @@
   https://modrinth.com/mod/marlow-crystal-optimizer
 * Optimal Aim
   https://modrinth.com/mod/optimal-aim
-
+* X-Ray
+* Hack-Clients
+* Litematica Printer
+  https://modrinth.com/mod/litematica-printer
+* Baritone
 ---
 
 ## ℹ️ Allgemeine Informationen
