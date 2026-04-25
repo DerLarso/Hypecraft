@@ -4,8 +4,32 @@
 
 ## 📜 Regeln
 
-*(Noch nicht definiert)*
+### 🧱 Allgemeine Serverregeln
 
+* Respektvoller Umgang
+  - Beleidigungen, Mobbing oder Provokationen sind verboten.
+* Kein Rassismus / Diskriminierung
+* Keine Hassrede oder Extremismus
+* Kein Spam
+* Privatsphäre respektieren
+  - Keine persönlichen Daten von dir oder anderen teilen.
+
+### 🎮 Gameplay-Regeln
+
+* Kein Cheating
+* Kein Griefing
+* Diebstahl ist verboten
+* Keine absichtliche Serverbelastung
+  - Keine Lagmaschinen
+
+### 🛠️ Server & Community
+
+* Moderatoren haben das letzte Wort!
+* Keine Ausnutzung von Bugs
+
+### ⚠️ Stafen
+
+* Werden durch Serverteam festgelegt
 ---
 
 ## ⚙️ Server Mods
