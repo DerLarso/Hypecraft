@@ -102,7 +102,7 @@
 
 * Freecam
   https://modrinth.com/mod/freecam
-* Litematica
+* Litematica (Easy Place)
   https://modrinth.com/mod/litematica
 * Alle Arten von Client-Sortierung
 * Clear View
