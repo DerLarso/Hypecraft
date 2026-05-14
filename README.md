@@ -129,7 +129,7 @@
 
 * **Version:** 26.1
 * **Loader:** Fabric Loader 0.19.2
-* **Server Specs:** unknown
-* **Host:** unknown
+* **Server Specs:** Ryzen 5 7600X; 48GB DDR5; 512 GB SSD
+* **Host:** None
 
 ---
