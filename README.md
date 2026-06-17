@@ -6,7 +6,8 @@
 
 * **Discord:** [Hypecraft Discord](https://www.discord.gg/aDavvDdWzG)
 * **IP:** 
-
+  - Whitelist erforderlich
+  - Betrete Discord für Whitelist
 ---
 
 ## 📜 Serverregeln
@@ -154,3 +155,9 @@
 * **Host:** DerLarso
 
 ---
+
+## 🔐 Whitelist & Account Verknüpfung
+
+* Für den Server ist eine Whitelist erforderlich.
+  - Dadurch kann das Serverteam besser kontrollieren, wer Zugriff auf den Server erhält.
+* Wenn du auf die Whitelist möchtest, schreibe deinen Minecraft Namen im Discord im Whitelist Channel.
