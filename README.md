@@ -2,6 +2,13 @@
 
 ---
 
+## 🔗 Server Beitritt
+
+* **Discord:** [Hypecraft Discord](https://www.discord.gg/aDavvDdWzG)
+* **IP:** 
+
+---
+
 ## 📜 Serverregeln
   - Damit unser Server ein chilliger Treffpunkt für alle bleibt, haltet euch bitte an die folgenden Regeln. Verstöße können zu Verwarnungen, Kicks oder Bans führen.
 
