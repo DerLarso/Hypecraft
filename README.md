@@ -2,34 +2,48 @@
 
 ---
 
-## 📜 Regeln
+## 📜 Serverregeln
+  - Damit unser Server ein chilliger Treffpunkt für alle bleibt, haltet euch bitte an die folgenden Regeln. Verstöße können zu Verwarnungen, Kicks oder Bans führen.
 
 ### 🧱 Allgemeine Serverregeln
 
 * Respektvoller Umgang
   - Beleidigungen, Mobbing oder Provokationen sind verboten.
-* Kein Rassismus / Diskriminierung
+* Kein Rassismus oder Diskriminierung
 * Keine Hassrede oder Extremismus
-* Kein Spam
 * Privatsphäre respektieren
   - Keine persönlichen Daten von dir oder anderen teilen.
+* Keine unangemessenen Skins oder Namen
+  - Beleidigende, diskriminierende oder unangemessene Skins und Namen sind verboten.
 
-### 🎮 Gameplay-Regeln
+### 🎮 Gameplay Regeln
 
 * Kein Cheating
+  - XRay, Fly Hacks, Kill Aura, Auto Clicker und andere unerlaubte Vorteile sind verboten.
 * Kein Griefing
 * Diebstahl ist verboten
-* Keine absichtliche Serverbelastung
-  - Keine Lagmaschinen
-
-### 🛠️ Server & Community
-
-* Moderatoren haben das letzte Wort!
 * Keine Ausnutzung von Bugs
+  - Bugs oder Glitches dürfen nicht ausgenutzt werden.
+* Keine absichtliche Serverbelastung
+  - Keine Lagmaschinen oder unnötig belastende Konstruktionen.
 
-### ⚠️ Stafen
+### 💬 Chat und Community
 
-* Werden durch Serverteam festgelegt
+* Kein Spam
+  - Nutze den Chat verantwortungsvoll.
+* Kein störender Brainrot Content
+  - Einzelne harmlose Memes sind erlaubt.
+  - Dauerhaftes Spammen, Trollen oder nerviges Wiederholen von Brainrot Begriffen ist verboten.
+
+### 🛠️ Server und Community
+
+* Höre auf Anweisungen des Serverteams
+* Vorschläge und Ideen können beim Serverteam gemeldet werden
+
+### ⚠️ Strafen
+
+* Werden durch das Serverteam festgelegt
+  - Je nach Situation sind Verwarnungen, Kicks oder Bans möglich
 ---
 
 ## ⚙️ Server Mods
@@ -106,7 +120,7 @@
   https://modrinth.com/mod/litematica
 * Alle Arten von Client-Sortierung
 * Clear View
-
+  https://modrinth.com/mod/clearviews
 ---
 
 ## ❌ Verbotene Mods
@@ -127,9 +141,9 @@
 
 ## ℹ️ Allgemeine Informationen
 
-* **Version:** 26.1
-* **Loader:** Fabric Loader 0.19.2
+* **Version:** 26.1.2
+* **Loader:** Fabric Loader 0.19.3
 * **Server Specs:** Ryzen 5 7600X; 48GB DDR5; 512 GB SSD
-* **Host:** None
+* **Host:** DerLarso
 
 ---
