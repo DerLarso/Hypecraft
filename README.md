@@ -20,7 +20,6 @@
 * Kein Rassismus oder Diskriminierung
 * Keine Hassrede oder Extremismus
 * Privatsphäre respektieren
-  - Keine persönlichen Daten von dir oder anderen teilen.
 * Keine unangemessenen Skins oder Namen
   - Beleidigende, diskriminierende oder unangemessene Skins und Namen sind verboten.
 
@@ -52,6 +51,22 @@
 
 * Werden durch das Serverteam festgelegt
   - Je nach Situation sind Verwarnungen, Kicks oder Bans möglich
+
+### 🔐 Datenschutz und Voice Chat
+
+* Persönliche Daten schützen
+  - Teile keine privaten Daten von dir oder anderen Spielern.
+  - Dazu gehören zum Beispiel echte Namen, Adressen, Telefonnummern, Schule, Wohnort oder private Bilder.
+* Keine Aufnahmen ohne Zustimmung
+  - Voice Chat oder private Informationen dürfen nicht ohne Zustimmung der betroffenen Personen aufgenommen, veröffentlicht oder weitergegeben werden.
+* Gesetze beachten
+  - Jeder Spieler ist selbst dafür verantwortlich, sich an die geltenden Gesetze seines Landes zu halten.
+  - Besonders bei Aufnahmen, Datenschutz und privaten Konflikten muss auf rechtliche Regeln geachtet werden.
+* Verantwortung der Spieler
+  - Der Server stellt nur die Plattform zum gemeinsamen Spielen bereit.
+  - Für private Streitigkeiten oder rechtliche Probleme zwischen Spielern übernimmt der Server keine Haftung, soweit diese außerhalb des Einflussbereichs des Serverteams liegen.
+* Eingreifen des Serverteams
+  - Bei Verstößen gegen Datenschutz oder Privatsphäre kann das Serverteam eingreifen.
 ---
 
 ## ⚙️ Server Mods
@@ -153,7 +168,6 @@
 * **Loader:** Fabric Loader 0.19.3
 * **Server Specs:** Ryzen 5 7600X; 48GB DDR5; 512 GB SSD
 * **Host:** DerLarso
-
 ---
 
 ## 🔐 Whitelist & Account Verknüpfung
