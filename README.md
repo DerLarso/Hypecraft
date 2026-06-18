@@ -5,7 +5,7 @@
 ## 🔗 Server Beitritt
 
 * **Discord:** [Hypecraft Discord](https://www.discord.gg/aDavvDdWzG)
-* **IP:** 
+* **IP:** hypecraft.org
   - Whitelist erforderlich
   - Betrete Discord für Whitelist
 ---
