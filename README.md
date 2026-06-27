@@ -28,6 +28,8 @@
 * Kein Cheating
   - XRay, Fly Hacks, Kill Aura, Auto Clicker und andere unerlaubte Vorteile sind verboten.
 * Kein Griefing
+  - Ender-Pearl-Stasis-Chambers zählen ebenfalls zum Grundstück und dürfen nicht unerlaubt aktiviert, verändert oder entfernt werden.
+  - Ender Pearls aus solchen Chambers dürfen nicht wegtransportiert oder gestohlen werden.
 * Diebstahl ist verboten
 * Keine Ausnutzung von Bugs
   - Bugs oder Glitches dürfen nicht ausgenutzt werden.
@@ -67,6 +69,18 @@
   - Für private Streitigkeiten oder rechtliche Probleme zwischen Spielern übernimmt der Server keine Haftung, soweit diese außerhalb des Einflussbereichs des Serverteams liegen.
 * Eingreifen des Serverteams
   - Bei Verstößen gegen Datenschutz oder Privatsphäre kann das Serverteam eingreifen.
+
+### 🤖 Bots und Chunkloading
+
+* Bots nur mit Erlaubnis
+  - Bots dürfen nur gespawnt werden, wenn sie vorher vom Serverteam bzw. der zuständigen Person genehmigt wurden.
+  - Wenn du einen Bot brauchst, schreibe die zuständige Person an und erkläre kurz, wofür der Bot benötigt wird.
+* Keine Bots für normales Chunkloading
+  - Bots dürfen nicht mehr einfach nur zum Laden von Chunks verwendet werden.
+  - Für normales Chunkloading, zum Beispiel Kupferoxidation, sollen Ender-Pearl-Stasis-Chambers genutzt werden, solange du selbst auf dem Server bist.
+* Erlaubte Bot-Nutzung
+  - Bots sind nur für sinnvolle Fälle erlaubt, zum Beispiel für Farmen, die nicht zuverlässig mit einer Ender-Pearl-Stasis-Chamber geladen werden können.
+  - Beispiele wären Mobfarmen wie Creeperfarmen, wenn kein Spieler online ist, der die Farm laden kann.
 ---
 
 ## ⚙️ Server Mods
